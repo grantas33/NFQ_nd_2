@@ -19,22 +19,22 @@ h1 {
 
 aside {
     float: left;
-    height: 600px;
-    width: 300px;
+    height: 594px;
+    width: 259px;
     border: 3px solid #ffa302;
     padding-right: 30px;
     padding-left: 5px;
 }
 
 main {
-    width: 653px;
-    height: 600px;
+    width: 694px;
+    height: 594px;
     float: right;
     border: 3px solid #ffa302
 }
 
 .main-content{
-    height: 606px;
+    height: 600px;
 }
 
 .body-footer {
@@ -44,7 +44,7 @@ main {
     padding-top: 20px;
 }
 
-.body-footer>p{
+.white{
     color: white;
 }
 article {
@@ -61,7 +61,7 @@ section {
 }
 
 nav {
-    margin-top: 64px;
+    margin-top: 20px;
     display: flex;
     flex-wrap: nowrap;
     align-items: stretch;
@@ -78,4 +78,8 @@ nav {
 
 aside>p {
     text-align: justify;
+}
+
+.red {
+    color: red;
 }
